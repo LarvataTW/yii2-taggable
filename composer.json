@@ -1,6 +1,6 @@
 {
-    "name": "creocoder/yii2-taggable",
-    "description": "The taggable behavior for the Yii framework",
+    "name": "larvata/yii2-taggable",
+    "description": "The taggable behavior for the Yii framework(fork from creocoder)",
     "keywords": [
         "yii2",
         "taggable",
@@ -11,8 +11,8 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Alexander Kochetov",
-            "email": "creocoder@gmail.com"
+            "name": "larvata",
+            "email": "info@larvata.tw"
         }
     ],
     "require": {
